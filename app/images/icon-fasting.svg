@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_44" data-name="Group 44" transform="translate(-2392 480)">
+    <g id="Group_36" data-name="Group 36" transform="translate(-102 89)">
+      <rect id="Rectangle_61" data-name="Rectangle 61" width="60" height="60" transform="translate(2494 -569)" fill="#5cd3ff"/>
+    </g>
+    <path id="utensils-solid" d="M14.618,1.067a85.968,85.968,0,0,1,1.132,9.056,7.414,7.414,0,0,1-4.845,7.355l.907,16.741A1.692,1.692,0,0,1,10.125,36h-4.5A1.692,1.692,0,0,1,3.937,34.22l.907-16.741A7.411,7.411,0,0,1,0,10.124,85.714,85.714,0,0,1,1.132,1.067C1.357-.36,4.317-.381,4.5,1.145v9.928c.091.239,1.062.225,1.125,0,.1-1.779.555-9.787.562-9.97C6.42-.36,9.33-.36,9.555,1.1c.014.19.464,8.191.562,9.97.063.225,1.041.239,1.125,0V1.145C11.426-.374,14.393-.36,14.618,1.067ZM23,21.156,21.944,34.17A1.687,1.687,0,0,0,23.625,36h3.937a1.683,1.683,0,0,0,1.687-1.687V1.686A1.688,1.688,0,0,0,27.562,0C21.762,0,12,12.549,23,21.156Z" transform="translate(2407 -467.999)" fill="#fff"/>
+    <g id="Group_39" data-name="Group 39" transform="translate(60 -89)">
+      <line id="Line_3" data-name="Line 3" x2="40.358" y2="40.358" transform="translate(2342.5 -379.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" x1="40.358" y2="40.358" transform="translate(2342.5 -379.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
